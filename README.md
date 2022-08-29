@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 You can checkout my online resume at [About me](https://rexmolo.github.io/about/).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexmolo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexmolo&layout=compact)](https://github.com/rexmolo)
