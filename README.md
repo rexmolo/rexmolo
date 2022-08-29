@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm Jackie Ma 
 
 <!--
 **rexmolo/rexmolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I'm currently looking for a new opportunity.
+
+- 📫 You can checkout my online resume at [About me](https://rexmolo.github.io/about/).
+
+
