@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I'm currently looking for a new opportunity.
 
-- 📫 You can checkout my online resume at [About me](https://rexmolo.github.io/about/).
+- 📫 You can checkout my online resume at [About me](https://www.linkedin.com/in/rexmolo).
 
 
  <p align="center">
