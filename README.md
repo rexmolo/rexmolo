@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
  <p align="center">
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/rexmolo.gif?z=6)](https://github4life.herokuapp.com/rexmolo)
 
   |   ![rexmolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexmolo&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rexmolo&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
