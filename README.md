@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   |   ![rexmolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexmolo&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rexmolo&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=rexmolo&column=7&margin-w=20&theme=juicyfresh" alt="rexmolo's Github Trophy" />
 
 <br/>
 
