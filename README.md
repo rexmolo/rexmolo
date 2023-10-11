@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  | --- | --- |
 
 
- [![rexmolo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rexmolo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![rexmolo's github activity graph](https://github-readme-activity-graph.vercel.app?username=rexmolo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  </p>
