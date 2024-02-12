@@ -32,8 +32,6 @@ Here are some ideas to get you started:
   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexmolo&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rexmolo&theme=github_dark)     |
  | --- | --- |
 
-   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rexmolo&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rexmolo&theme=github_dark)     |
- | --- | --- |
 
 
  [![rexmolo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rexmolo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
